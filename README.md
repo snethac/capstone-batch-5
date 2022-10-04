@@ -1,3 +1,3 @@
 # capstone-batch-5
-this repository contains codes and dashboards related to dvd rental analysis
-master table branch contains the sql query for creating a master table.
+[README.md](https://github.com/snethac/capstone-batch-5/files/9703019/README.md)
+
