@@ -24,7 +24,7 @@ using the data in Master table dashboards are created in Tableau for our problem
 
 # Links to dashboards
 
-[Dashboards](https://github.com/snethac/capstone-batch-5/blob/main/dashboards "Dasboards")
+[Dashboards](https://public.tableau.com/app/profile/snetha.c/viz/capstonestatement2/firstnameandcountoffilm_id?publish=yes "Dasboards")
  
  ## Descriptions of dashboards and worksheets 
 
@@ -41,11 +41,11 @@ using the data in Master table dashboards are created in Tableau for our problem
  # Files and Folders
 
  ### SQL Query
- [SQL Query for Master Table](https://github.com/snethac/capstone-batch-5/blob/main/Master%20table.txt "Master Table")
+ [SQL Query for Master Table](https://github.com/snethac/capstone-batch-5/blob/master-table/Master%20table.txt "Master Table")
 
  ### Python Code 
 
- [Python code for EDA](https://github.com/snethac/capstone-batch-5.git "EDA analysis")
+ [Python code for EDA](https://github.com/snethac/capstone-batch-5/blob/EDA-analysis/EDA%20Analysis_Updated.py "EDA analysis")
 
  ### Images from EDA
 
