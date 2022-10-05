@@ -36,6 +36,15 @@ using the data in Master table dashboards are created in Tableau for our problem
 
  # EDA Outputs
 
+ Rental duration is uniformly distributed
+
+ Amount paid by customers and if we look closely at the data we can see that a lot of data points are distributed uniformly.
+
+ There are 183 null values in the data after creating master table those null values are beacuse of customers not returning the rental
+
+
+​
+
  # Conclusions
 
  # Files and Folders
@@ -48,5 +57,7 @@ using the data in Master table dashboards are created in Tableau for our problem
  [Python code for EDA](https://github.com/snethac/capstone-batch-5/blob/EDA-analysis/EDA%20Analysis_Updated.py "EDA analysis")
 
  ### Images from EDA
+
+ [Snapshots of EDA Anlysis](https://github.com/snethac/capstone-batch-5/tree/EDA-analysis "snapshots")
 
  ### Final Presentation
