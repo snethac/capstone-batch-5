@@ -1,5 +1,5 @@
 # capstone-batch-5
-[README.md](https://github.com/snethac/capstone-batch-5/files/9703019/README.md)
+
 
 # Problem statement
 
@@ -45,7 +45,27 @@ using the data in Master table dashboards are created in Tableau for our problem
 
 ​
 
- # Conclusions
+ # Insights and Recommendation
+ #### Rental Analysis
+ ***
+ We can apply some penalty/late fee forthose who return late.
+
+We can make rent price slab according to number of days or hours of rent duration.
+
+#### Top 10 customer
+***
+Give them gift cards , special discounts, gift hampers & certificate of appreciation.
+
+Upload their pics with name and positive reviews on sites.
+
+#### Country wise sales revenue (MAP)
+***
+
+Focus on those countries where service is not available.
+
+Focus on those countries that have large population but not generate a good amount of revenue, so more advertise will be good for increase revenue.
+
+
 
  # Files and Folders
 
@@ -61,3 +81,5 @@ using the data in Master table dashboards are created in Tableau for our problem
  [Snapshots of EDA Anlysis](https://github.com/snethac/capstone-batch-5/tree/EDA-analysis "snapshots")
 
  ### Final Presentation
+
+ [click here for ppt](https://github.com/snethac/capstone-batch-5/blob/final-presentation/Final%20PPT%20(2).pptx "final ppt")
